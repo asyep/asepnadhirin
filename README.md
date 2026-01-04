@@ -55,9 +55,10 @@ I am currently preparing myself for **internship opportunities** where I can con
 ### 🤖 Machine Learning Exposure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
 </p>
 
 - Unsupervised learning using **K-Means**
