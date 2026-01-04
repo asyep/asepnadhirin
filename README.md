@@ -1,12 +1,9 @@
 ## About Me
 
-Hi, I'm **Asep Nadhirin**, a Software Engineering undergraduate student at  
-**Universitas Pendidikan Indonesia**.
+Hi, I'm **Asep Nadhirin**, a Software Engineering undergraduate student at **Universitas Pendidikan Indonesia**.
 
-I have a strong and growing interest in **data-oriented fields**, particularly  
-**Data Analysis, Machine Learning, and Artificial Intelligence**.  
-With a software engineering background, I focus on building **structured,  
-reproducible, and well-documented solutions**, especially when working with data.
+I have a strong and growing interest in **data-oriented fields**, particularly **Data Analysis, Machine Learning, and Artificial Intelligence**.
+With a software engineering background, I focus on building **structured, reproducible, and well-documented solutions**, especially when working with data.
 
 My goal is to bridge solid engineering fundamentals with data-driven thinking.
 
